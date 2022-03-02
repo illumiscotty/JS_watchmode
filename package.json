@@ -1,0 +1,17 @@
+{
+  "name": "js_watchmode",
+  "version": "1.0.0",
+  "description": "watching files for windows",
+  "main": "main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "main.js"
+  },
+  "author": "Scott",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.5.3"
+  }
+}
